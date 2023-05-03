@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @antonbadretdinov
 - :technologist: I’m currently learning Kotlin and Android development
 - :eyes: LeetCode: https://leetcode.com/antonbadretdinov/
-- 📫 How to reach me: antonbad03@gmail.com
+- 📫 How to reach me: antonbadretdinov@gmail.com
 
 <!---
 antonbadretdinov/antonbadretdinov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
