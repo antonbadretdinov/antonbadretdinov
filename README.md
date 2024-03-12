@@ -1,5 +1,5 @@
 👋 Hi, I’m Anton Badretdinov
-- :technologist: I’m currently learning Kotlin and Android development
+- :technologist: I’m Android developer
 - :eyes: LeetCode: https://leetcode.com/antonbadretdinov/
 - 📫 How to reach me: antonbadretdinov@gmail.com
 - ✨ Education: Russia, Saint-Petersburg, Peter the Great St.Petersburg Polytechnic University.
